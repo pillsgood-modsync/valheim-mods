@@ -1,0 +1,1 @@
+[Name = TinOre, Restricted = False, Multiplier = 1.0, OverridesRestricted = False, OverridesMultiplier = False]

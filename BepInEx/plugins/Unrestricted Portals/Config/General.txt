@@ -1,0 +1,4 @@
+Base Item Multiplier: 1.0
+Base Restricted Item Multiplier: 1.0
+Restrict All: False
+Restrict None: True
