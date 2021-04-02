@@ -33,3 +33,11 @@ __folder_managed_by_vortex
 vortex.deployment.json
 BepInEx/LogOutput.log
 BepInEx/config/QuickStack_player_*.dat
+BepInEx/plugins/AssimpNet.dll
+BepInEx/plugins/AssimpNet.pdb
+BepInEx/plugins/CustomMeshes.dll
+BepInEx/plugins/CustomTextures.dll
+BepInEx/config/aedenthorn.CustomMeshes.cfg
+BepInEx/config/aedenthorn.CustomTextures.cfg
+/BepInEx/plugins/CustomMeshes
+/BepInEx/plugins/CustomTextures
