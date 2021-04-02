@@ -33,3 +33,4 @@ __folder_managed_by_vortex
 vortex.deployment.json
 BepInEx/LogOutput.log
 BepInEx/config/QuickStack_player_*.dat
+BepInEx/plugins/CustomMeshes/vortex.deployment.valheim-custom-meshes.json
